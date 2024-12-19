@@ -157,6 +157,23 @@ shell_emulator/
 
 ---
 
+## **Testing**
+
+- cd:
+![image](https://github.com/user-attachments/assets/127d15cf-67fa-41fc-9247-28ce08e83ab8)
+
+
+- uptime:
+![image](https://github.com/user-attachments/assets/74372a8d-258d-4091-8814-b07c25f4d000)
+
+- rev:
+![image](https://github.com/user-attachments/assets/3c40a88c-1dec-4c67-a27f-aa54ce2c52c7)
+
+- log:
+![Uploading image.png…]()
+
+
+
 ## **Contributing**
 
 Contributions are welcome! To contribute:
@@ -166,6 +183,8 @@ Contributions are welcome! To contribute:
 3. Commit your changes and submit a pull request.
 
 ---
+
+##
 
 ## **License**
 
