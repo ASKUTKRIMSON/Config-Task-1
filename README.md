@@ -162,7 +162,6 @@ shell_emulator/
 - cd:
 ![image](https://github.com/user-attachments/assets/127d15cf-67fa-41fc-9247-28ce08e83ab8)
 
-
 - uptime:
 ![image](https://github.com/user-attachments/assets/74372a8d-258d-4091-8814-b07c25f4d000)
 
@@ -171,6 +170,10 @@ shell_emulator/
 
 - log:
 ![Uploading image.png…]()
+
+- ls:
+![Uploading image.png…]()
+
 
 
 
